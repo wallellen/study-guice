@@ -1,6 +1,7 @@
 # forders
 out/
 build/
+node_modules/
 .idea/
 .gradle/
 .DS_Store
@@ -9,3 +10,4 @@ build/
 *.iml
 *.ipr
 *.iws
+*.log
